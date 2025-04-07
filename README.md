@@ -28,8 +28,8 @@ A simple **Digital Stopwatch** with a **lap recording** feature, built with **HT
 
 ---
 
-![Alt text](https://github.com/feyo46/Digital-Stopwatch---HTML-CSS-JavaScript/blob/main/Screenshot%201.png?raw=true)
-![Alt text](https://github.com/feyo46/Digital-Stopwatch---HTML-CSS-JavaScript/blob/main/Screenshot%202.png?raw=true)
+![](https://github.com/feyo46/Digital-Stopwatch---HTML-CSS-JavaScript/blob/main/Screenshot%201.png?raw=true)
+![image2](https://github.com/feyo46/Digital-Stopwatch---HTML-CSS-JavaScript/blob/main/Screenshot%202.png?raw=true)
 
 ---
 
